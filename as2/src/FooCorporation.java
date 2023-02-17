@@ -1,3 +1,4 @@
+//IT's a code calculates the total salary of employees with base pay and hours worked.
 class FooCorporation {
     public static void calculateSalary(double base_pay, int working_hour) {
         if (base_pay < 8.00) {
