@@ -1,3 +1,4 @@
+//It's a mini code that calculates the final position of an object free fell.
 public class GravityCalculator {
     public static void main(String[] args) {
         double gravity =-9.81; // Earth's gravity in m/s^2
