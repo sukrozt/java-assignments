@@ -1,3 +1,5 @@
+//The goal of the code is to find the minimum value and the second-minimum value of an array.
+//Here, array "times" represents runnning times of students.
 class Marathon {
     public static int findFastest(int[] array){ //method gives the index of the fastest student's index in array
         int minValue = array[0];
