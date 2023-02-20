@@ -11,3 +11,4 @@ public class GravityCalculator {
                 " seconds is " + finalPosition + " m.");
     }
 }
+//didn't you feel any shame for putting this? yok, hiç.
