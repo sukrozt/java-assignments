@@ -10,7 +10,8 @@ public class CollegeStudent extends Student {
 
     public void printStatus() {
         double grade4 = averageGrade * 4 / 100;
-        System.out.println("Ogrenci ismi: " + this.name + "\nOgrencinin 4 uzerinden notu: " + grade4 + "\nDersin kredisi: "+ earnedCredits);
+        double gradeofCourse = grade4 * credits
+        System.out.println("Ogrenci ismi: " + this.name + "\nDersin puani: " + gradeofCourse);
 
     }
 
